@@ -1,0 +1,21 @@
+
+
+.alert-text {
+    background-color: rgb(255, 162, 176);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+ .fontpx {
+    font-size: 24px;
+ }  
+
+ #header {
+    color: rgba(29, 29, 189, 0.948);
+    font-size: 36px;
+ }
+
+ #uniqe {
+    background-color: rgb(81, 255, 171);
+    font-size: 24px;
+    font-weight: bold;
+ }
